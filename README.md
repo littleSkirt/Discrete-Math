@@ -1,4 +1,4 @@
-# Concrete-Math
+# Discrete-Math
 
 Hey there!(wave 
 
